@@ -28,7 +28,7 @@ I also enjoy teaching and helping others learn along the way.
 ---
 
 ### Technologies  
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=swift,python,cpp,ros,arduino,git,github,vscode,xcode" />
 </p>
 
