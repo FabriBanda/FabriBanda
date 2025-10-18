@@ -1,7 +1,7 @@
-###  Hi, I'm Fabricio Banda  
+###  Hi, I'm Fabricio Banda 
 ---
 
-I'm passionate about technology and innovation — I’m a **Robotics and Digital Systems Engineering student** who loves creating with **Swift**, designing **intuitive interfaces**, and working on **embedded and robotic systems**.  
+I'm passionate about technology and innovation .I’m a **Robotics and Digital Systems Engineering student** who loves creating with **Swift**, designing **intuitive interfaces**, and working on **embedded and robotic systems**.  
 I also enjoy teaching and helping others learn along the way.  
 
 > *"Any sufficiently advanced technology is indistinguishable from magic."*  
@@ -23,18 +23,18 @@ I also enjoy teaching and helping others learn along the way.
 - 🎓 Currently studying **Robotics and Digital Systems Engineering** at **Tecnológico de Monterrey**.  
 - 💻 I love creating **clean, user-friendly graphical interfaces**, as well as working with **embedded systems and robotics**.  
 - 📍 Based in **Monterrey, Mexico**.  
-- ✨ *Fun facts:* I’m fascinated by **astronomy, rockets, and space exploration** — especially **SpaceX** 🚀. I also love **basketball** and once ran a **marathon under 4 hours**.  
+- ✨ *Fun facts:* I’m fascinated by **astronomy, rockets, and space exploration**, especially **SpaceX** . I also love **basketball** and once ran a **marathon under 4 hours** 🏃🏼‍♂️.  
 
 ---
 
-### 🧩 Technologies  
+### Technologies  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,python,cpp,ros,arduino,git,github,vscode,xcode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabriBanda&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriBanda&layout=compact&theme=tokyonight&hide_border=true" />
@@ -42,5 +42,5 @@ I also enjoy teaching and helping others learn along the way.
 
 ---
 
-### 🎧 Now Playing  
+### Now Playing  
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/tu-usuario)
