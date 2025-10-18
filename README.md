@@ -4,7 +4,7 @@
 I'm passionate about technology and innovation .I’m a **Robotics and Digital Systems Engineering student** who loves creating with **Swift**, designing **intuitive interfaces**, and working on **embedded and robotic systems**.  
 I also enjoy teaching and helping others learn along the way.  
 
-> *"Any sufficiently advanced technology is indistinguishable from magic."*  
+> *"Any sufficiently advanced technology is indistinguishable from magic." Arthur C. Clarke*  
 
 ---
 
