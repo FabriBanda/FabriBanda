@@ -1,7 +1,5 @@
-### 👋 Hi, I'm Fabricio Banda  
-🎓 Robotics & Digital Systems Engineering Student @ Tecnológico de Monterrey  
-📱 iOS & Robotics Developer | Passionate about accessibility, AI and automation  
-
+###  Hi, I'm Fabricio Banda 
+Passionate about technology and innovation, I’m a Robotics and Digital Systems Engineering student who loves creating with Swift, designing intuitive interfaces, and working on embedded and robotic systems. I also enjoy teaching and helping others learn along the way.
 ---
 
 > *"Technology should not just work — it should help people live better."*  
